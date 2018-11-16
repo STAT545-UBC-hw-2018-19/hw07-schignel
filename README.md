@@ -13,4 +13,4 @@ I sometimes have to work with messy data where there are typos and inconsistenci
 -   **Please access my modifed version of the `foofactors` package [here](https://github.com/schignel/foofactors)**
 -   You might also be interested in the **[vignette](https://github.com/schignel/foofactors/blob/master/vignettes/hello-foofactors.Rmd)** as well as the **[tests for fclean](https://github.com/schignel/foofactors/blob/master/tests/testthat/test_fclean.R)**
 
-![Avoid this with your factor data. Use `fclean` instead!](https://media.giphy.com/media/c09yGbnSyaFRS/giphy.gif)
+Avoid this with your factor data. Use `fclean` instead! ![](https://media.giphy.com/media/c09yGbnSyaFRS/giphy.gif)
