@@ -4,7 +4,7 @@ STAT 545: Homework 07
 
 ### By: Stephen Chignell
 
-Welcome to the repository! Here you'll find all the files and associated material for [Howework 4](http://stat545.com/Classroom/assignments/hw07/hw07.html).
+Welcome to the repository! Here you'll find all the files and associated material for [Howework 7](http://stat545.com/Classroom/assignments/hw07/hw07.html).
 
 For this assignment, I chose to add a function to the `foofactors` package by Jenny Bryan (original is [here](https://github.com/jennybc/foofactors)).
 
